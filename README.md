@@ -23,15 +23,15 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/keaenlim/snake-game-java.git
+   git clone https://github.com/keaenlim/SnakeGame.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd snake-game-java
+   cd Snake
    ```
 3. Compile the game:
    ```sh
-   javac SnakeGame.java
+   javac GameFrame.java GamePanel.java SnakeGame.java
    ```
 4. Run the game:
    ```sh
