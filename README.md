@@ -42,7 +42,7 @@ Ensure you have the following installed:
 - **Arrow Keys**: Move the snake up, down, left, or right
 
 ## 📸 Screenshots
-![Snake Game Screenshot](https://your-image-url.com)
+![Snake Game Screenshot](Gamestart.png)
 
 ## 💡 Acknowledgments
 - Inspired by the original Snake game from Nokia phones
@@ -50,6 +50,6 @@ Ensure you have the following installed:
 
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out:
-- GitHub: [your-username](https://github.com/your-username)
+- GitHub: [keaenlim](https://github.com/your-username)
 - Email: keaenlim@gmail.com
 
