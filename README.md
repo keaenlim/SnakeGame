@@ -50,6 +50,6 @@ Ensure you have the following installed:
 
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out:
-- GitHub: [keaenlim](https://github.com/your-username)
+- GitHub: [keaenlim](https://github.com/keaenlim)
 - Email: keaenlim@gmail.com
 
